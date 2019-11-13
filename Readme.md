@@ -42,7 +42,7 @@ environment/package manager.
 Once conda is installed in your system navigate to the project's root in your terminal (where the file transit_env.yml) and run the
 following command:
 
-```conda env create -f transit_env.yml```
+```conda env create -f searches-env.yml```
 
 This will create the environment that will be used to run the project. Once all the packages are installed run the command:
 
