@@ -96,5 +96,6 @@ dependencies:
 - widgetsnbextension=3.0.2=py35_0
 - xz=5.2.3=0
 - zlib=1.2.11=0
+- pandas-profiling=2.3
 prefix: /Users/lkronecker/anaconda/envs/tensorflow
 
